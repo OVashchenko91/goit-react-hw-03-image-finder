@@ -15,4 +15,4 @@ export async function getImages(search, page) {
     } catch(error) {
       console.log(error.message);
     };
-};
+}
