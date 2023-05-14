@@ -16,3 +16,4 @@ export async function getImages(search, page) {
       console.log(error.message);
     };
 };
+
